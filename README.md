@@ -1,1 +1,5 @@
-![https://media.giphy.com/media/3o6Zt7pM3XPl12MWo8/giphy.gif](https://media.giphy.com/media/3o6Zt7pM3XPl12MWo8/giphy.gif)
+<div align="center">
+	<br>
+		<img src="lel.svg" width="800">
+	<br>
+</div>
