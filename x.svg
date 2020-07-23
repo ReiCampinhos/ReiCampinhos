@@ -73,6 +73,7 @@
 			</style>
 			<div class="container">
 				<h1>Rei Campinhos</h1>
+				<input type="checkbox" />
 			</div>
 		</div>
 	</foreignObject>
